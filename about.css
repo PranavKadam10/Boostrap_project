@@ -1,0 +1,105 @@
+.nav li a{
+    color: black !important;
+    font-weight: 600;
+}
+.nav li a:hover{
+    color: #51b56d !important;
+}
+.about a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.about a:hover{
+    color: #51b56d;
+}
+/* VALUES WR PROVIDE */
+.VALUES-WR-PROVIDE h4{
+    color: white;
+    background-color: #51b56d;
+    height: 70px;
+    width: 70px;
+    border-radius: 7px;
+    padding-top: 17px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+.main_overlay{
+    position: relative;
+}
+.overlay{
+    position: absolute;
+    opacity: 0;
+}
+.overlay a{
+    text-decoration: none;
+    color: black;
+}
+.main_overlay:hover .overlay{
+    opacity: 1;
+}
+/* footer start */
+.footer h5{
+    color:#51b56d;
+    padding-bottom: 20px;
+}
+.footer a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    line-height: 30px;
+}
+.footer a:hover{
+    color:#51b56d;
+}
+.form input{
+    width:250px;
+    height: 55px;
+    border-radius: 5px 0px 0px 5px;
+    border: transparent;
+}
+.form button{
+    border: transparent;
+    background-color: #51b56d;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    margin-bottom: 20px
+}
+.footer-2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    padding: 0px 5px;
+}
+.footer-2 a:hover{
+    color:#51b56d;
+}
+.logo a{
+    font-size: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.34);
+    padding: 10px 15px;
+    border-radius: 4px;
+    margin: 0px 5px;
+}
+.logo a:hover{
+    color: #51b56d;
+}
+.Questions h4{
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 5px;
+    padding-top: 7px;
+}
+.Questions p{
+    color: grey;
+    font-size: 14px;
+}
+.Questions a{
+    text-decoration: none;
+    color: #51b56d;
+    font-size: 16px;
+}
+/* footer end */

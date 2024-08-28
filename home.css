@@ -1,0 +1,177 @@
+*{
+    font-family: "Rubik", sans-serif;
+}
+.nav li a{
+    color: black !important;
+    font-weight: 600;
+}
+.nav li a:hover{
+    color: #51b56d !important;
+}
+.apply-loan a{
+    text-decoration: none;
+    color: white;
+    background-color: #51b56d;
+    font-size: 17px;
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+.apply-loan a:hover{
+    background-color: #27773d;
+}
+@media (max-width: 400px){
+    .main img{
+        width: 100%;
+    }
+    .main h1{
+        font-size:28px !important;
+    }
+    .apply-loan{
+        margin-bottom: 50px;
+    }
+}
+.service a{
+    text-decoration: none;
+}
+.service h4{
+    font-size: 26px;
+    /* padding: 10px; */
+    height: 60px;
+    width: 60px;
+    color: #917aeb;
+    background-color: #e9e4fb;
+    border: 1px solid transparent;
+    border-radius: 7px;
+    padding: 12px;
+}
+.service-2 h4{
+    color: #51b56d;
+    background-color: #dcf0e2;
+}
+.service h3{
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+}
+.service p{
+    color: gray;
+    font-size: 15px;
+}
+.service a:hover{
+    background-color: whitesmoke;
+    border: none;
+    transition: 2s;
+}
+.service a:hover h3{
+    color: #27773d;
+}
+.hover-service:hover{
+    border: none !important;    
+    background-color:whitesmoke;
+}
+@media (max-width: 400px){
+    .service h2{
+        font-size: 40px !important;
+    }
+}
+/*  end service */
+@media (max-width: 400px){
+    .ABOUT-OURSELVES img{
+          width: 100%;
+    }
+}
+@media (max-width: 400px){
+   .carousel-inner img{
+    width: 100%;
+   }
+}
+a:hover, a:focus {
+    text-decoration: none !important;
+}
+.carousel button{
+    padding: 15px 20px;
+    border: transparent;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.carousel button:hover{
+    color: #27773d;
+    background-color: #dcf0e2;
+}
+.OUR-SERVICE a{
+    color:#51b56d;
+}
+.footer h5{
+    color:#51b56d;
+    padding-bottom: 20px;
+}
+.footer a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    line-height: 30px;
+}
+.footer a:hover{
+    color:#51b56d;
+}
+.form input{
+    width:250px;
+    height: 55px;
+    border-radius: 5px 0px 0px 5px;
+    border: transparent;
+}
+.form button{
+    border: transparent;
+    background-color: #51b56d;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    margin-bottom: 20px
+}
+.footer-2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    padding: 0px 5px;
+}
+.footer-2 a:hover{
+    color:#51b56d;
+}
+.logo a{
+    font-size: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.34);
+    padding: 10px 15px;
+    border-radius: 4px;
+    margin: 0px 5px;
+}
+.logo a:hover{
+    color: #51b56d;
+}
+.Questions h4{
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 5px;
+    padding-top: 7px;
+}
+.Questions p{
+    color: grey;
+    font-size: 14px;
+}
+.Questions a{
+    text-decoration: none;
+    color: #51b56d;
+    font-size: 16px;
+}
+@media (max-width: 400px){
+.footer-2{
+    text-align: center;
+}
+.footer-2 .logo{
+    padding-top:20px;
+}
+.logo a{
+    margin-right: 20px;
+}
+}

@@ -1,0 +1,106 @@
+.nav li a{
+    color: black !important;
+    font-weight: 600;
+}
+.nav li a:hover{
+    color: #51b56d !important;
+}
+.about a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.about a:hover{
+    color: #51b56d;
+}
+
+/* apply-loan */
+.apply-loan span{
+    color: white;
+    background-color: #51b56d;
+    padding: 12px 15px;
+    border: 6px solid #a0daae;
+    border-radius: 50%;
+    font-size: 25px;
+    font-weight: 700;
+}
+.sec-4 i{
+    font-size: 45px;
+    color: white;
+    background-color: #51b56d;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    padding-top: 17px;
+    border-radius: 10px;
+}
+.accordion-button{
+    background-color: white !important;
+    font-weight: 800 !important;
+}
+.accordion-button:not(.collapsed){
+    color: black !important;
+}
+/* footer start */
+.footer h5{
+    color:#51b56d;
+    padding-bottom: 20px;
+}
+.footer a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    line-height: 30px;
+}
+.footer a:hover{
+    color:#51b56d;
+}
+.form input{
+    width:250px;
+    height: 55px;
+    border-radius: 5px 0px 0px 5px;
+    border: transparent;
+}
+.form button{
+    border: transparent;
+    background-color: #51b56d;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    margin-bottom: 20px
+}
+.footer-2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    padding: 0px 5px;
+}
+.footer-2 a:hover{
+    color:#51b56d;
+}
+.logo a{
+    font-size: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.34);
+    padding: 10px 15px;
+    border-radius: 4px;
+    margin: 0px 5px;
+}
+.logo a:hover{
+    color: #51b56d;
+}
+.Questions h4{
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 5px;
+    padding-top: 7px;
+}
+.Questions p{
+    color: grey;
+    font-size: 14px;
+}
+.Questions a{
+    text-decoration: none;
+    color: #51b56d;
+    font-size: 16px;
+}
+/* footer end */
